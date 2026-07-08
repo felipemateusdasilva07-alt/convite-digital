@@ -43,7 +43,7 @@ export default function ConviteDigital() {
 }
 
 const styles = StyleSheet.create({
-  fundo: { flex: 1, width: '100%', height: '100vh' },
+  fundo: { flex: 1, width: '100%', height: '100%' },
   container: { flex: 1, justifyContent: 'flex-end', alignItems: 'center', paddingBottom: 50 },
   card: { backgroundColor: 'rgba(255, 255, 255, 0.9)', padding: 20, borderRadius: 20, width: '90%', alignItems: 'center' },
   titulo: { fontSize: 22, fontWeight: 'bold', marginBottom: 20, color: '#333' },
