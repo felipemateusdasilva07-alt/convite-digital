@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NomeDoSeuNovoApp",
+    "slug": "NomeDoSeuNovoApp",
+    "version": "1.0.0",
+    "scheme": "myapp",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
