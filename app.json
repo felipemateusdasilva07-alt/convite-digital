@@ -1,10 +1,12 @@
 {
   "expo": {
-    "name": "nome-do-seu-app",
-    "slug": "nome-do-seu-app",
+    "name": "convite-digital",
+    "slug": "convite-digital",
+    "version": "1.0.0",
     "web": {
       "bundler": "metro",
-      "output": "single"
+      "output": "single",
+      "basePath": "/"
     }
   }
 }
