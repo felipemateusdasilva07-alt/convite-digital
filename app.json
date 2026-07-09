@@ -4,7 +4,7 @@
     "slug": "nome-do-seu-app",
     "web": {
       "bundler": "metro",
-      "output": "static"
+      "output": "single"
     }
   }
 }
